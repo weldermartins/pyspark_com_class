@@ -6,3 +6,6 @@ Esse tipo de organização poderá ajudar novos engenheiros a se adequar a polí
 
 
 Obs: Como o intuito será demonstrar métodos em classe para ingestão, não será abordado como organizar os dados em camadas, meio de extrema importância para a qualidade dos dados ao usuário final.
+
+
+![scheme](imagens/classe.png)</br>  
